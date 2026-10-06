@@ -1,7 +1,7 @@
 add and remove users
 change the rules
 manage the database
-closing the database connection
+closing the mySQL database connection
 
 change 1
 change 2 in someone's databases
