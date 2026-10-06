@@ -4,5 +4,3 @@ process thhe data
 create an avtar for User
 
 login and logout
-
-change 1
