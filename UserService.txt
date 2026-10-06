@@ -1,6 +1,4 @@
 Get User Data ...
 process thhe data
 
-create an avtar for User
-
 login and logout
